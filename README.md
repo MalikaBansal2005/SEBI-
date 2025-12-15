@@ -6,6 +6,9 @@ This database is designed to model the core regulatory, supervisory, and enforce
 ## Purpose
 The primary objective of this database is to provide a structured and normalized representation of SEBI’s operations for academic DBMS projects. It demonstrates how a regulatory authority manages market participants, handles investor grievances, conducts investigations, and enforces regulations.
 
+<img width="724" height="384" alt="SEBI_Database_ER diagram" src="https://github.com/user-attachments/assets/340deea2-b796-47f3-8a14-4761661055f7" />
+
+
 ## Key Entities
 - **Offices**: Stores details of SEBI head and regional offices.
 - **Officials**: Contains information about SEBI officials, their designations, departments, and office postings.
