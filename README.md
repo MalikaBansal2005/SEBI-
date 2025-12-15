@@ -29,6 +29,3 @@ This database can be used to:
 - Track regulatory investigations and enforcement actions.
 - Demonstrate relational database design in a financial regulatory context.
 - Support SQL queries, joins, and reports for academic evaluation.
-
-## Scope
-This is a conceptual and educational model, not an official SEBI system. It is intended for learning purposes, DBMS coursework, and project demonstrations.
